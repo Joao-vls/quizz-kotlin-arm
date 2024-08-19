@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quizz</string>
+    <string name="tema">Leis</string>
+    <string name="mostra">mostra resposta</string>
+    <string name="confirma">Confirma resposta</string>
+</resources>
